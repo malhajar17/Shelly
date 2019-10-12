@@ -1,10 +1,4 @@
-/*
-* shelly interface program
-
-KUSIS ID: PARTNER NAME:
-KUSIS ID: PARTNER NAME:
-
-*/
+/* shelly interface program */
 
 #include <stdio.h>
 #include <unistd.h>
